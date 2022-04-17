@@ -19,7 +19,7 @@ input[type=txt]{
     border-radius: 5px;
 }
 input[type=button]{
-    width: 89px;
+    width: 24%;
     padding: 10px;
     font-size: 22px;
     font-weight: bold;
@@ -27,4 +27,10 @@ input[type=button]{
 }
 #del{
     width: 100%;
+}
+element.style {
+    width: 100%;
+}
+.display{
+    width: 97%;
 }
